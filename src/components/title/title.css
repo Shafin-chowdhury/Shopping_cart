@@ -1,0 +1,31 @@
+/* .box-container{  */
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(20rem,2fr));
+    grid-gap: 1.5rem;
+}
+.box-container .box{
+    padding: 2.5rem;
+    background-color: white;
+    border-radius: .5rem;
+    border: 0.01rem solid rgb(150, 142, 142);
+    box-shadow: 20 10px 40px 10 rgba(12, 159, 59, 0);
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+/* .box-container{
+    padding: 45px 45px 45px 45px;
+    transition: ease .50;
+    cursor: pointer;
+}
+
+.sub-img img{
+    max-width: 100px;
+    width: 60px;
+    height: auto;
+    margin-bottom: 20px;
+} */
+
+
+
